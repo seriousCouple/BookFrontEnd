@@ -1,0 +1,98 @@
+/*左浮动*/
+.ll{
+    float: left;
+}
+
+/*头部*/
+.header-personal{
+    margin-left: 40px !important;
+}
+.navbar{
+    box-shadow: 0 0 5px #888;
+    min-width: 800px;
+}
+.content-container{
+    margin-top: 80px;
+}
+
+/*内容*/
+.info-container{
+    width: 500px;
+    float: left;
+}
+#mainPic{
+    float: left;
+    margin: 3px 15px 0 0
+}
+
+#info{
+    float: left;
+    max-width: 248px;
+    word-wrap: break-word;
+}
+
+.pl{
+    font: 14px Arial, Helvetica, sans-serif;
+    line-height: 150%;
+    color: #666666;
+    font-weight: 500;
+}
+/*标题*/
+.ti{
+    margin-bottom: 5px;
+    font-size: 15px;
+    color: #666666;
+}
+/*附加内容*/
+#additionalInfo{
+    float: left;
+    width: 205px;
+    padding: 0 0 0 15px;
+    border-left: 1px solid #eaeaea;
+}
+/*评分*/
+.rating{
+    color: #9b9b9b;
+    margin: 5px 0px;
+}
+.rating .rating-num{
+    color: #494949;
+    padding: 0;
+    min-width: 30%;
+    font-size: 28px;
+    font-weight: normal;
+}
+.br-widget{
+    height:22px !important;
+}
+/*人数*/
+.plan-num span{
+    display: block;
+    padding: 2px;
+}
+/*标签*/
+.lable-container span{
+    display: inline-block;
+    margin-bottom: 5px;
+}
+/*子标题*/
+.sub-title{
+    border-bottom:1px solid #ddd;
+    padding-bottom: 6px;
+    color: #007722;
+}
+
+.thumbnail{
+    padding: 0px!important;
+}
+
+.thumbnail-context{
+    padding-left: 3px;
+    padding-top: 3px;
+}
+
+.room{
+    width: 20%;
+    float: left;
+    padding: 0px 15px;
+}
